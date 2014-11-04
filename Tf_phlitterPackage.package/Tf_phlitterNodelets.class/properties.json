@@ -1,0 +1,14 @@
+{
+	"category" : "Tf_phlitterPackage-Nodelets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tfPublishers" ],
+	"name" : "Tf_phlitterNodelets",
+	"pools" : [
+		 ],
+	"super" : "PhaROSStaticNodelet",
+	"type" : "normal" }

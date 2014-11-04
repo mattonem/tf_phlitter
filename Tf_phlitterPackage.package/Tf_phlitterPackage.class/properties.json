@@ -1,0 +1,14 @@
+{
+	"category" : "Tf_phlitterPackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Tf_phlitterPackage",
+	"pools" : [
+		 ],
+	"super" : "PhaROSPackage",
+	"type" : "normal" }
